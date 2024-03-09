@@ -30,6 +30,7 @@ This project aims to leverage the data provided by Starbucks, simulating custome
 
 ## Files in the Repository
  - **Starbucks_Capstone_notebook.ipynb**: The Jupyter Notebook containing all the analysis, from data preprocessing to model evaluation and insights.
+ - **data**: The folder with datasets: portfolio.json, profile.json, transcript.json.
  - **README.md**: This file, providing an overview of the project and repository.
  - **pic1.png, pic2.png**: These images are used in Jupyter notebook for explaining the notebook terminal update process.
 
