@@ -1,9 +1,19 @@
 # Starbucks Capstone Project
-
-### (Link to Blog - Medium)[https://medium.com/@raghuvarankula/unlocking-the-brew-to-success-a-data-driven-dive-into-starbucks-app-offer-optimization-5b55186b94fc]
-
-## Introduction
 This repository contains the analysis for the Starbucks Capstone Challenge, part of the Data Science Nanodegree Program by Udacity. The project explores customer behavior on the Starbucks rewards mobile app to determine which demographic groups respond best to which type of offer (discount, BOGO, or informational).
+
+## Medium Blogpost
+The link for this analysis in Medium is [here](https://medium.com/@raghuvarankula/unlocking-the-brew-to-success-a-data-driven-dive-into-starbucks-app-offer-optimization-5b55186b94fc)
+
+## Table of Contents
+- [Libraries Used](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#libraries-used)
+- [Project Motivation](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#project-motivation)
+- [Files in the Repository](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#files-in-the-repository)
+- [Analysis Summary](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#analysis-summary)
+- [Key Findings](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#key-findings)
+- [Contribution](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#contribution)
+- [Acknowledgements](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#acknowledgements)
+- [License](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project/blob/main/README.md#license)
+
 
 ## Libraries Used
 - Pandas
@@ -65,6 +75,12 @@ These inferences can help tailor marketing strategies, indicating potential area
  - Model performance indicated that demographic features significantly influence the effectiveness of offers.
  - Suggestions for targeted marketing strategies were developed based on the insights gained from the analysis.
 
+## Contribution
+If you would like to contribute to this project or have suggestions, please feel free to open an issue or submit a pull request from the [GitHub repo](https://github.com/RaghuVaranKula/Capstone_Starbucks_Project.git).
+
 ## Acknowledgements
  - Udacity for providing the framework and data for this capstone project.
  - Starbucks for the dataset simulating customer behavior on the rewards mobile app.
+
+## License
+This project is not licensed.
